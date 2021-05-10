@@ -1,0 +1,40 @@
+
+
+TIMESTAMP:2021-05-01 17:17:55.944375
+./static/shipInfo.png
+310.0	hdg	gyro	
+13.8	spd	kn	
+gps	310.7	cog	
+13.8	sog	kn	
+utc	2.0	jan	
+202.1	150.2	
+./static/deepsea.png
+gain	sea	man	
+rain	man	auto	
+tune	
+./static/range.png
+3	
+./static/stablized.png
+gnd	
+./static/mode.png
+n	up	
+
+
+TIMESTAMP:2021-05-01 17:18:33.713332
+./static/shipInfo.png
+310.0	hdg	gyro	
+13.6	spd	kn	
+gps	311.1	cog	
+13.6	sog	kn	
+utc	2.0	jan	
+202.1	150.8	
+./static/deepsea.png
+gain	sea	man	
+rain	man	auto	
+tune	
+./static/range.png
+3	
+./static/stablized.png
+gnd	
+./static/mode.png
+n	up	

@@ -1,0 +1,17 @@
+./static/shipInfo.png
+hdg	3102	gyro	
+136	spd	kn	
+gps	3116	cog	
+136	sog	kn	
+utc	20	jan	
+2021	1500	
+./static/deepsea.png
+gain	sea	man	
+rain	man	auto	
+tune	
+./static/range.png
+3	
+./static/stablized.png
+gnd	
+./static/mode.png
+n	up	
